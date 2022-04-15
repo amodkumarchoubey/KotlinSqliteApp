@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinSqliteApp</string>
+    <string-array name="Course">
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>Btech</item>
+        <item>Mtech</item>
+    </string-array>
+</resources>
